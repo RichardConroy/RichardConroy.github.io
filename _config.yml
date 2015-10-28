@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://RichardConroy.github.io
+title: The Sum of all Beers
+tagline: Adventures in Homebrewing
+description: Here I talk about all the various things I get up to brewing beer at home, as well as events, discussion of relevant beer/brewing articles and recipes.
+paginate: 5
